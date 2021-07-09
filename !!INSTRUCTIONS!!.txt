@@ -1,0 +1,12 @@
+PROJECT H.E.L.E.N 
+
+instructions for operation;
+
+click on the file named "ai.py", if it doesnt work then open
+ the "ai.py" file with a text editor like sublime text and run the 
+file using the ctrl+B command.
+ 
+
+
+
+
